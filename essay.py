@@ -1,0 +1,6 @@
+class Essay:
+    word = ""
+    sentence = ""
+
+
+
